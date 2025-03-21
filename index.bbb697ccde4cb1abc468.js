@@ -1,1 +1,0 @@
-(()=>{"use strict";var e;document.body.prepend(((e=document.createElement("h1")).textContent="Проект собран на Webpack4",e))})();
